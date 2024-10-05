@@ -1,0 +1,3 @@
+[submodule "kai.nvim"]
+	path = kai.nvim
+	url = https://github.com/erakai/kai.nvim
